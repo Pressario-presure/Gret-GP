@@ -25,9 +25,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 1103268797
+    locked: 0
+  - name: player
+    uniqueID: 4189426099
+    locked: 0
+  - name: Plans
+    uniqueID: 3673242985
+    locked: 0
+  - name: sand
+    uniqueID: 4250941897
     locked: 0
